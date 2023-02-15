@@ -2,7 +2,7 @@
 <h3 align="center">Mobile Developer </h3>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AHMHAM&label=Profile%20views&color=004080&style=flat" alt="AHMHAM" height="30" width="180" />
-	           <img src="https://img.shields.io/github/followers/AHMHAM?label=Followers&color=600000&style=flat" alt="AHMHAM" height="30" width="100" />
+	          <!-- <img src="https://img.shields.io/github/followers/AHMHAM?label=Followers&color=600000&style=flat" alt="AHMHAM" height="30" width="100" />-->
 </p>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 150px/>
